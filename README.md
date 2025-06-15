@@ -1,2 +1,3 @@
-# Google-sheet-Dashboard
+# Google-Sheet-Dashboard
 This is an interactive Sales Dashboard which is create in google sheet to analysis sales trend and its inside.
+Design By: Sirajuddin Shaikh
